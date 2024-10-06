@@ -13,7 +13,8 @@ module.exports = {
     "ko",
     "lv",
     "pl",
-    "vn"
+    "vn",
+    "ja"
   ],
   DEFAULT_LOCALE: "en",
 };
